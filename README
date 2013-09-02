@@ -1,10 +1,11 @@
 Installation
 ------------
 
-   Copy the contents of vim/ftplugin/ to your ~/.vim/ftplugin directory.
+If you don't have a preferred installation method, I recommend installing
+pathogen.vim, and then simply copy and paste:
 
-       (Assuming your current dir is sparkup/vim/)
-       $ cp -R ftplugin ~/.vim/
+   cd ~/.vim/bundle
+   git clone git://github.com/mitsuhiko/vim-sparkup.git
 
 Configuration
 -------------
