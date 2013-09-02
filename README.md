@@ -1,6 +1,7 @@
 Sparkup for Vim
 ==============
-Just the vim version of [Sparkup](https://github.com/rstacruz/sparkup) tailored for easy installation with pathogen.
+Just the vim version of [Sparkup](https://github.com/rstacruz/sparkup) tailored
+for easy installation with pathogen and some fixes.
 
 Installation
 ------------
